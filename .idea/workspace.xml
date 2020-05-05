@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a60f03af-1e4f-4d6a-81df-62b2fe2d7bc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,29 @@
       <option name="presentableId" value="Default" />
       <updated>1583768629398</updated>
     </task>
+    <task id="LOCAL-00001" summary="Проверка!">
+      <created>1588663790821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588663790821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Проверка!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Проверка!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588138510006">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588138510006" />
+    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1588663789499">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1588663789499" />
     <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1583944132238">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
