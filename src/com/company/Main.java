@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-    String s = "Элли самая красивая";
+    String s = "Test!";
 
     public static void main(String[] args) {
 
